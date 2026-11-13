@@ -1,0 +1,12 @@
+.venv/
+venv/
+env/
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+data/*.db
+data/*.sqlite
+data/*.json
+.vscode/
+.DS_Store
